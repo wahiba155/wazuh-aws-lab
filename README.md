@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents the design and implementation of a **Cloud-based SIEM & EDR security architecture** using **Wazuh**, deployed on **Amazon Web Services (AWS Learner Lab)**.
 
