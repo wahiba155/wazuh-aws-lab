@@ -216,11 +216,7 @@ Academic Year: 2025 / 2026
 
 ---
 
-##  License
 
-This project is for educational purposes as part of academic coursework.
-
----
 
 ##  Acknowledgments
 
