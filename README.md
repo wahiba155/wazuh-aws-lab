@@ -38,9 +38,9 @@ All EC2 instances are deployed in the **same VPC and subnet**, as required by th
 
 ---
 
-## 🖥️ EC2 Instances Description
+##  EC2 Instances Description
 
-### 🔐 Wazuh Server (Ubuntu)
+###  Wazuh Server (Ubuntu)
 
 - OS: Ubuntu 22.04 LTS
 - Role: SIEM & EDR Server
